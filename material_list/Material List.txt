@@ -1,1 +1,22 @@
-6x LiDAR 30m max recommended Low frequency Low Angle (ca 30EUR p/p)
+6x  LiDAR 30m max recommended Low frequency Low Angle
+    (ca 30EUR p/p)
+
+3x  ESP32 !!MUST BE DUAL CORE!! any format minimum 2x analog and 8x digital Pins 
+    For Lidar sensors
+    (ca 5EUR p/p) 
+
+1x  ESP32 !!MUST BE DUAL CORE!! any format minimum 2x analog and 8x digital Pins 
+    For Gyroscope sensor
+    (ca 5EUR p/p)
+
+1x  Gyroscope module 1 axis minimu 
+    (up to 5EUR p/p)
+
+2x 50cm adressable yellow LED stripes of your liking preferably on 5-12v (very different)
+
+2x 50cm aluminium profile for them
+
+
+
+
+
